@@ -7,8 +7,9 @@ The programming language for this course will be C++. No prior programming exper
 The course will consist of 2 hours lecture and 2 hours lab classes. The lab classes will be interactive, i.e. problems have to be solved during the lab class (with help of the assistants). Attendance in the lab classes is mandatory. The lecture will finish with a written exam (Which may be writing a program on the computer, still subject to organizational details).
 
 * __Lecture__ : Wednesdays, 8:30 - 10:30, 5J
-* __Lab class 1__: Thursdays, 10:30 - 12:30, 25.22.00.25
-* __Lab class 2__: TBA  
+* __Lab class 1__: Wednesdays, 4:30 - 6:30, 25.22.00.25
+* __Lab class 2__: Tuesdays, 10:30 - 12:30, 25.22.00.25
+* __Lab class 3__: Tuesdays, 2:30 - 4:30, 25.22.00.25
 
 # C++
 
